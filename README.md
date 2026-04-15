@@ -1,0 +1,2 @@
+-- Cleaned package: no server-side logic was included in the source archive.
+-- This file is intentionally left minimal so the resource structure is sane.
